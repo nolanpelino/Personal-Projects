@@ -7,6 +7,9 @@ const tmdbKey = '';
 const tmdbBaseUrl = 'https://api.themoviedb.org/3';
 const playBtn = document.getElementById('playBtn');
 
+/*
+Gets genres from the TMBD API
+*/
 const getGenres = async () => {
   // my code
   const genreRequestEndpoint = '/genre/movie/list';
@@ -25,8 +28,11 @@ const getGenres = async () => {
   }
 };
 
+/*
+Gets all movies from a specific genre
+*/
 const getMovies = async () => {
-  const selectedGenre = getSelectedGenre();
+  const selectedGenre = getSelectedGenre();  // getSelectedGenre() comes from helper.js
   // my code
   const discoverMovieEndpoint = '/discover/movie';
   const requestParams = `?api_key=${tmdbKey}&with_genres=${selectedGenre}`;
@@ -49,6 +55,9 @@ const getMovies = async () => {
   }
 };
 
+/*
+Gets info from a random movie from a json response page
+*/
 const getMovieInfo = async (movie) => {
   // my code
   const movieId = movie.id;
@@ -68,7 +77,9 @@ const getMovieInfo = async (movie) => {
 };
 getMovies();
 
-// Gets a list of movies and ultimately displays the info of a random movie from the list
+/*
+Gets a list of movies and ultimately displays the info of a random movie from the list
+*/
 const showRandomMovie = async () => {
   const movieInfo = document.getElementById('movieInfo');
   if (movieInfo.childNodes.length > 0) {
