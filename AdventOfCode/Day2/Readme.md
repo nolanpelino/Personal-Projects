@@ -45,5 +45,5 @@ Now that you're correctly decrypting the ultra top secret strategy guide, you wo
 Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?
 
 Your puzzle answer was 12316.
-> My solution:
+> ***My solution:***
 > I used the same methodology as Part One, except for changing the computed point totals for the scenarios
