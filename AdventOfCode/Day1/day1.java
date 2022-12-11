@@ -12,7 +12,7 @@ public class day1 {
     }
 
     public static void main(String[] args) {
-        day1 answer = new day1("Day1/input.txt");
+        day1 answer = new day1("Personal-Projects/AdventOfCode/Day1/input.txt");
         answer.readCalorieCounts();
     }
 
