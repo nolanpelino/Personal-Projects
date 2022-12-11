@@ -27,7 +27,7 @@ public class Day2 {
     public void readFile() {
         Integer total = 0;
 
-        try (Scanner scan = new Scanner(new File("/home/nolanpelino/Personal-Projects/AdventOfCode/Day2/input.txt"))) {
+        try (Scanner scan = new Scanner(new File("Personal-Projects/AdventOfCode/Day2/input.txt"))) {
             while (scan.hasNextLine()) {
                 String line = scan.nextLine(); 
                 total = total + scores.get(line);
