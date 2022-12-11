@@ -27,7 +27,7 @@ In this example, if you were to follow the strategy guide, you would get a total
 What would your total score be if everything goes exactly according to your strategy guide?
 
 Your puzzle answer was 13809.
-> My solution:
+> **My solution:**
 > Using a hardcoded Map, I found the totals for all 9 scenarios of a rock paper scissors matchup.
 > I looped through the input file using a scanner, matching the key values to the point equivalent.
 
@@ -45,5 +45,5 @@ Now that you're correctly decrypting the ultra top secret strategy guide, you wo
 Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?
 
 Your puzzle answer was 12316.
-> ***My solution:***
+> **My solution:**
 > I used the same methodology as Part One, except for changing the computed point totals for the scenarios
