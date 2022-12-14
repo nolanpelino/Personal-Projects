@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Day4",
+            "request": "launch",
+            "mainClass": "Day4",
+            "projectName": "AdventOfCode_ed9bd9a9"
+        },
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Day5/bin/Debug/net6.0/Day5.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Day5",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
