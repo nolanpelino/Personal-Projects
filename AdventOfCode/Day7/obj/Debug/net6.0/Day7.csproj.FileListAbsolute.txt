@@ -1,0 +1,15 @@
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/bin/Debug/net6.0/Day7
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/bin/Debug/net6.0/Day7.deps.json
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/bin/Debug/net6.0/Day7.runtimeconfig.json
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/bin/Debug/net6.0/Day7.dll
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/bin/Debug/net6.0/Day7.pdb
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/obj/Debug/net6.0/Day7.csproj.AssemblyReference.cache
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/obj/Debug/net6.0/Day7.GeneratedMSBuildEditorConfig.editorconfig
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/obj/Debug/net6.0/Day7.AssemblyInfoInputs.cache
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/obj/Debug/net6.0/Day7.AssemblyInfo.cs
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/obj/Debug/net6.0/Day7.csproj.CoreCompileInputs.cache
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/obj/Debug/net6.0/Day7.dll
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/obj/Debug/net6.0/refint/Day7.dll
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/obj/Debug/net6.0/Day7.pdb
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/obj/Debug/net6.0/Day7.genruntimeconfig.cache
+/home/nolanpelino/Personal-Projects/AdventOfCode/Day7/obj/Debug/net6.0/ref/Day7.dll
