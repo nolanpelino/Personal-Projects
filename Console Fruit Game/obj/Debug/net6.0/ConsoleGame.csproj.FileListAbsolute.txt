@@ -1,0 +1,15 @@
+/home/nolanpelino/Personal-Projects/Console Fruit Game/bin/Debug/net6.0/ConsoleGame
+/home/nolanpelino/Personal-Projects/Console Fruit Game/bin/Debug/net6.0/ConsoleGame.deps.json
+/home/nolanpelino/Personal-Projects/Console Fruit Game/bin/Debug/net6.0/ConsoleGame.runtimeconfig.json
+/home/nolanpelino/Personal-Projects/Console Fruit Game/bin/Debug/net6.0/ConsoleGame.dll
+/home/nolanpelino/Personal-Projects/Console Fruit Game/bin/Debug/net6.0/ConsoleGame.pdb
+/home/nolanpelino/Personal-Projects/Console Fruit Game/obj/Debug/net6.0/ConsoleGame.csproj.AssemblyReference.cache
+/home/nolanpelino/Personal-Projects/Console Fruit Game/obj/Debug/net6.0/ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/nolanpelino/Personal-Projects/Console Fruit Game/obj/Debug/net6.0/ConsoleGame.AssemblyInfoInputs.cache
+/home/nolanpelino/Personal-Projects/Console Fruit Game/obj/Debug/net6.0/ConsoleGame.AssemblyInfo.cs
+/home/nolanpelino/Personal-Projects/Console Fruit Game/obj/Debug/net6.0/ConsoleGame.csproj.CoreCompileInputs.cache
+/home/nolanpelino/Personal-Projects/Console Fruit Game/obj/Debug/net6.0/ConsoleGame.dll
+/home/nolanpelino/Personal-Projects/Console Fruit Game/obj/Debug/net6.0/refint/ConsoleGame.dll
+/home/nolanpelino/Personal-Projects/Console Fruit Game/obj/Debug/net6.0/ConsoleGame.pdb
+/home/nolanpelino/Personal-Projects/Console Fruit Game/obj/Debug/net6.0/ConsoleGame.genruntimeconfig.cache
+/home/nolanpelino/Personal-Projects/Console Fruit Game/obj/Debug/net6.0/ref/ConsoleGame.dll
